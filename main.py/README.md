@@ -1,6 +1,7 @@
 # my_first_repository
 
 - Jin Han
+
 **Project name**
   Rock, paper, scissors game
 
