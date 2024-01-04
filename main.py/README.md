@@ -1,17 +1,17 @@
 # my_first_repository
 
-- Jin Han
+Jin Han
 
-**Project name**
+**Project name:**
   Rock, paper, scissors game
 
-**Project Description**
+**Project Description:**
 Explore a fun journey with Rock, Paper, Scissors Quest! This coding project turns the classic game into an adventure with 5 rounds, your goal is to defeat enemies using Rock, Paper, Scissors and earn points for each win.
 
-**Contribution**
+**Contribution:**
 If you have ideas and would like to contribute to my project to make it even more exciting, please feel free to contact me!
 
-**Links to my social media**
+**Links to my social media:**
 - - [LinkedIn](www.linkedin.com/in/koh-jin-han-931590261)
 
 
