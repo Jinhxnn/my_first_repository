@@ -11,7 +11,7 @@ Explore a fun journey with Rock, Paper, Scissors Quest! This coding project turn
 **Contribution:**
 If you have ideas and would like to contribute to my project to make it even more exciting, please feel free to contact me!
 
-**Links to my social media:**
+**Connect with me!:**
 - - [LinkedIn](www.linkedin.com/in/koh-jin-han-931590261)
   - Instagram: User name: jinhznn
 
