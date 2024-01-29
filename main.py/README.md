@@ -13,6 +13,6 @@ If you have ideas and would like to contribute to my project to make it even mor
 
 **Connect with me!:**
 - - [LinkedIn] www.linkedin.com/in/koh-jin-han-931590261
-  - [nstagram] User name: jinhznn
+  - [Instagram] User name: jinhznn
 
 
