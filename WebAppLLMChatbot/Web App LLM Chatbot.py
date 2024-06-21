@@ -36,3 +36,14 @@ response = chat_session.send_message("INSERT_INPUT_HERE")
 
 print(response.text)
 
+import streamlit as st
+
+st.title("Simple Gemini ChatBot")
+
+message = st.chat_message("user")
+message.write("Hello human :)")
+
+prompt = st.chat_input("Say something")
+if prompt:
+    st.write(f"User has sent the following prompt: {prompt}")
+
